@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 3b53d6d0559b9fb4fbdd81dcb23c671b
+  - enabled: 1
+    path: Assets/Scenes/SharkAttack.unity
+    guid: 2f4920e675e5f2743b0215f50562a61d
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoardScene.unity
+    guid: 4002dc08375e9124cb61bdaa86803503
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 823bfb5bc78c76f40b2732841504d763
+  - enabled: 1
+    path: Assets/Scenes/HowToPlayScene.unity
+    guid: 6fd8d1ad7611ce745ba2f961f0b3177d
+  m_configObjects: {}
